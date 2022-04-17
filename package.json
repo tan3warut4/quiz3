@@ -1,0 +1,17 @@
+{
+  "name": "quiz3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quiz3.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.21.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.21.0"
+  }
+}
